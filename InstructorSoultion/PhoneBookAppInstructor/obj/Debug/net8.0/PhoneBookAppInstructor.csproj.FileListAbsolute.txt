@@ -1,0 +1,15 @@
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\bin\Debug\net8.0\PhoneBookAppInstructor.exe
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\bin\Debug\net8.0\PhoneBookAppInstructor.deps.json
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\bin\Debug\net8.0\PhoneBookAppInstructor.runtimeconfig.json
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\bin\Debug\net8.0\PhoneBookAppInstructor.dll
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\bin\Debug\net8.0\PhoneBookAppInstructor.pdb
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.AssemblyInfoInputs.cache
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.AssemblyInfo.cs
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.csproj.CoreCompileInputs.cache
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.sourcelink.json
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.dll
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\refint\PhoneBookAppInstructor.dll
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.pdb
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\PhoneBookAppInstructor.genruntimeconfig.cache
+C:\Users\i.kłusek\Desktop\.NET\PhoneBookApp\InstructorSoultion\PhoneBookAppInstructor\obj\Debug\net8.0\ref\PhoneBookAppInstructor.dll
