@@ -1,12 +1,77 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|c:\\users\\i.k\u0142usek\\desktop\\.net\\phonebookapp\\instructorsoultion\\phonebookappinstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|solutionrelative:phonebookappinstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|c:\\users\\i.k\u0142usek\\desktop\\.net\\phonebookapp\\instructorsoultion\\phonebookappinstructor\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|solutionrelative:phonebookappinstructor\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|c:\\users\\i.k\u0142usek\\desktop\\.net\\phonebookapp\\instructorsoultion\\phonebookappinstructor\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930D8F15-4EA1-4B76-806E-1C41CD18C05F}|PhoneBookAppInstructor\\PhoneBookAppInstructor.csproj|solutionrelative:phonebookappinstructor\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "PhoneBookAppInstructor\\PhoneBook.cs",
+              "ToolTip": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\PhoneBook.cs",
+              "RelativeToolTip": "PhoneBookAppInstructor\\PhoneBook.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:25:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\Contact.cs",
+              "RelativeDocumentMoniker": "PhoneBookAppInstructor\\Contact.cs",
+              "ToolTip": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\Contact.cs",
+              "RelativeToolTip": "PhoneBookAppInstructor\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:24:47.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneBookAppInstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\i.k\u0142usek\\Desktop\\.NET\\PhoneBookApp\\InstructorSoultion\\PhoneBookAppInstructor\\Program.cs",
+              "RelativeToolTip": "PhoneBookAppInstructor\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:22:08.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
